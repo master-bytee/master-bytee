@@ -1,5 +1,5 @@
 # 💫 Hello World:
-🔭i'm currently working on a python platformer game<br>🤝i want to collaborate on python projects<br>💻I'm currently learning ml using tenserflow<br>🎡👾⛷
+🔭i'm currently working on a tensorflow course<br>🤝i want to collaborate on python projects<br>💻I'm currently learning ml using tenserflow<br>🎡👾⛷
 
 
 # 💻 Tech Stack:
