@@ -1,5 +1,5 @@
 # 💫 About me:
-🔭i'm currently working on a tensorflow course<br>🤝i want to collaborate on python projects<br>💻I'm currently learning ml using tenserflow
+🔭i'm currently working on linux basics <br>🤝i want to collaborate on python projects<br>💻I'm currently learning ml using tenserflow
 
 
 # 💻 Tech Stack:
